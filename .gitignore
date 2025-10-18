@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# build
+build/
+.idea/
+.vscode/
+ThirdLibs/
+output/
+__pycache__/
+data/
