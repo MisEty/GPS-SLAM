@@ -125,15 +125,14 @@ The `-s` directory must contain a valid `cameras.json` file. You can use the fil
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
-    <pre><code>@misc{peng2025gpsslam,
-      title={Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps}, 
+    <pre><code>@article{peng2025gpsslam,
+      title={Gaussian-Plus-SDF SLAM: High-fidelity 3D Reconstruction at 150+ fps},
       author={Zhexi Peng and Kun Zhou and Tianjia Shao},
+      journal={Computational Visual Media},
       year={2025},
-      eprint={2509.11574},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.11574}, 
-      }</code></pre>
+      publisher={TUP}
+      }
+</code></pre>
   </div>
 </section>
 
